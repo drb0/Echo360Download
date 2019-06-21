@@ -10,9 +10,9 @@ Downloadable from the Chrome Web Store [link] or packages are available from rel
 
 * **Jesse Bate** - *Initial work* - [jbatesy](https://github.com/jbatesy)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jbatesy/Echo360Download/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jbatesy/Echo360Download/blob/master/LICENCE.md) file for details
 
