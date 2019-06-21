@@ -4,7 +4,7 @@ A chrome extension that facilitates the downloading of Echo360 recordings.
 
 ### Installing
 
-Downloadable from the Chrome Web Store [link] or yopu can download a package from releases on Github.
+Downloadable from the Chrome Web Store [link] or packages are available from releases on Github.
 
 ## Authors
 
